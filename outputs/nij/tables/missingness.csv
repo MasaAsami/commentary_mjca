@@ -1,0 +1,12 @@
+,missing_rate,n_missing,timing
+Avg_Days_per_DrugTest,0.23622992065028062,6103,post-treatment (excluded)
+DrugTests_THC_Positive,0.20019353590090963,5172,post-treatment (excluded)
+DrugTests_Cocaine_Positive,0.20019353590090963,5172,post-treatment (excluded)
+DrugTests_Meth_Positive,0.20019353590090963,5172,post-treatment (excluded)
+DrugTests_Other_Positive,0.20019353590090963,5172,post-treatment (excluded)
+Prison_Offense,0.12684342945616411,3277,baseline / treatment / outcome
+Gang_Affiliated,0.1225856396361525,3167,baseline / treatment / outcome
+Supervision_Level_First,0.06657634991290884,1720,baseline / treatment / outcome
+Jobs_Per_Year,0.031275401586994385,808,post-treatment (excluded)
+Supervision_Risk_Score_First,0.01838591058641378,475,baseline / treatment / outcome
+Percent_Days_Employed,0.01788271724404877,462,post-treatment (excluded)

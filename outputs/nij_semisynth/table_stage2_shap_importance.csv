@@ -1,0 +1,30 @@
+,True benefit,DR-OPL pi(1|x),DM benefit,MJCA risk q(x)
+Condition_Cog_Ed,0.0332,0.0331,0.0263,0.031
+Condition_MH_SA,0.0953,0.095,0.1295,0.1652
+Condition_Other,0.0234,0.0221,0.0149,0.0177
+Prior_Arrest_Episodes_DVCharges,0.015,0.0116,0.005,0.0033
+Prior_Arrest_Episodes_Drug,0.1135,0.103,0.1279,0.124
+Prior_Arrest_Episodes_Felony,0.0238,0.0251,0.0291,0.0308
+Prior_Arrest_Episodes_GunCharges,0.0078,0.0119,0.0062,0.0094
+Prior_Arrest_Episodes_Misd,0.0061,0.0403,0.0172,0.0249
+Prior_Arrest_Episodes_PPViolationCharges,0.0177,0.0103,0.0217,0.0527
+Prior_Arrest_Episodes_Property,0.0166,0.0164,0.0207,0.029
+Prior_Arrest_Episodes_Violent,0.0001,0.0096,0.0118,0.0227
+Prior_Conviction_Episodes_DVCharges,0.0012,0.0076,0.001,0.0028
+Prior_Conviction_Episodes_Drug,0.0327,0.0461,0.0108,0.0262
+Prior_Conviction_Episodes_Felony,0.009,0.0157,0.0115,0.0204
+Prior_Conviction_Episodes_GunCharges,0.0001,0.0077,0.0035,0.0083
+Prior_Conviction_Episodes_Misd,0.0149,0.0199,0.0108,0.0417
+Prior_Conviction_Episodes_PPViolationCharges,0.0371,0.0211,0.0231,0.0268
+Prior_Conviction_Episodes_Prop,0.0209,0.0348,0.0069,0.0256
+Prior_Conviction_Episodes_Viol,0.0062,0.0141,0.0066,0.0128
+Prior_Revocations_Parole,0.0181,0.0146,0.0065,0.0127
+Prior_Revocations_Probation,0.0081,0.012,0.0116,0.0253
+Prison offense,0.0681,0.0491,0.0324,0.0602
+Residence PUMA,0.0431,0.0652,0.0275,0.0488
+age_group,0.2759,0.1877,0.2864,0.0762
+dependents,0.0046,0.0134,0.0245,0.0334
+education,0.0079,0.0127,0.0122,0.0173
+gang_affiliated,0.0015,0.0105,0.0081,0.0057
+male,0.0019,0.008,0.002,0.0156
+prison_years,0.0962,0.0812,0.1041,0.0296

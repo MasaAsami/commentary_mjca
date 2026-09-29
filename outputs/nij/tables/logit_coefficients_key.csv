@@ -1,0 +1,9 @@
+,MJCA_coef,MJCA_se,DM_coef,DM_se
+A,,,0.168,0.038
+Prior_Arrest_Episodes_Felony,0.067,0.012,0.065,0.012
+Prior_Arrest_Episodes_PPViolationCharges,0.098,0.016,0.098,0.016
+gang_affiliated,0.857,0.056,0.859,0.056
+age_group,-0.308,0.012,-0.292,0.012
+offense_Violent_Sex,-0.42,0.111,-0.479,0.112
+Condition_MH_SA,0.284,0.039,0.289,0.039
+male,0.445,0.054,0.45,0.054

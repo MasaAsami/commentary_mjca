@@ -1,0 +1,5 @@
+,stage 1: person-level rank corr. with true benefit,stage 2: person-level rank corr. with true benefit,stage 1: direction agrees with truth (top-10 vars),stage 2: direction agrees with truth (top-10 vars)
+True benefit,1.0,1.0,1.0,1.0
+DR-OPL pi(1|x),0.845,0.873,0.9,1.0
+DM benefit,0.881,0.867,1.0,1.0
+MJCA risk q(x),-0.214,-0.283,0.6,0.3

@@ -1,0 +1,3 @@
+,AUC,Brier,ECE (10 bins),mean IPW weight A=1,mean IPW weight A=0,"share outside [0.05,0.95]"
+LightGBM,0.768,0.1888,0.0055,0.9965,0.9804,0.0403
+Logistic regression,0.7534,0.1953,0.018,0.9881,1.0059,0.0341

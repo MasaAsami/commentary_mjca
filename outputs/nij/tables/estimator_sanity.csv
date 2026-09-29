@@ -1,0 +1,6 @@
+,0
+observed rate (test),0.5699
+V_DM(pi0_hat): q averaged over pi0_hat,0.5722
+"mean IPW weight, A=1 (should be ~1)",1.0334
+"mean IPW weight, A=0 (should be ~1)",1.0571
+V_DR(pi0_hat) - observed rate (should be ~0),-0.0002

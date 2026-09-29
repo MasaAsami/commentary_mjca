@@ -1,0 +1,71 @@
+policy,spec,share_treated,V_DR,DR_lo,DR_hi,diff_vs_MJCA,diff_lo,diff_hi,n_test
+Observed (pi0),Main,0.5867,0.5697,0.5579,0.5804,0.0039,-0.0105,0.017,7299
+Case 1: MJCA,Main,0.5927,0.5659,0.5475,0.5848,0.0,0.0,0.0,7299
+Case 2: DM,Main,0.1958,0.5475,0.525,0.5677,-0.0183,-0.0405,0.0016,7299
+Case 2: DM (capacity),Main,0.5758,0.5678,0.5477,0.5875,0.0019,-0.0177,0.0211,7299
+Case 2b: DR-learner,Main,0.3755,0.5539,0.5332,0.5742,-0.012,-0.0327,0.0075,7299
+Case 2b: DR-learner (capacity),Main,0.5934,0.5617,0.5404,0.5817,-0.0042,-0.0248,0.0146,7299
+Case 3: DR-OPL,Main,0.2829,0.5555,0.5346,0.5747,-0.0104,-0.0321,0.0088,7299
+Observed (pi0),R1: outcome = arrest within 1 year,0.5875,0.2971,0.2861,0.308,-0.0136,-0.0279,-0.0003,7299
+Case 1: MJCA,R1: outcome = arrest within 1 year,0.5919,0.3107,0.2937,0.3288,0.0,0.0,0.0,7299
+Case 2: DM,R1: outcome = arrest within 1 year,0.2406,0.2874,0.2651,0.3094,-0.0233,-0.0454,-0.0006,7299
+Case 2: DM (capacity),R1: outcome = arrest within 1 year,0.583,0.297,0.2757,0.317,-0.0136,-0.0346,0.007,7299
+Case 2b: DR-learner,R1: outcome = arrest within 1 year,0.3836,0.2995,0.2802,0.3181,-0.0112,-0.0317,0.009,7299
+Case 2b: DR-learner (capacity),R1: outcome = arrest within 1 year,0.5776,0.2992,0.2796,0.3172,-0.0114,-0.0316,0.0078,7299
+Case 3: DR-OPL,R1: outcome = arrest within 1 year,0.2559,0.2964,0.2756,0.3174,-0.0142,-0.035,0.0069,7299
+Observed (pi0),"R2: propensity clip [0.01, 0.99]",0.5867,0.5698,0.558,0.5805,0.0074,-0.0102,0.026,7299
+Case 1: MJCA,"R2: propensity clip [0.01, 0.99]",0.5927,0.5624,0.5396,0.5847,0.0,0.0,0.0,7299
+Case 2: DM,"R2: propensity clip [0.01, 0.99]",0.1958,0.5519,0.5233,0.5785,-0.0105,-0.036,0.0155,7299
+Case 2: DM (capacity),"R2: propensity clip [0.01, 0.99]",0.5758,0.5673,0.5435,0.5901,0.0049,-0.0151,0.0266,7299
+Case 2b: DR-learner,"R2: propensity clip [0.01, 0.99]",0.3757,0.5522,0.527,0.5775,-0.0102,-0.0301,0.0107,7299
+Case 2b: DR-learner (capacity),"R2: propensity clip [0.01, 0.99]",0.586,0.5671,0.5414,0.5908,0.0047,-0.0146,0.024,7299
+Case 3: DR-OPL,"R2: propensity clip [0.01, 0.99]",0.2837,0.563,0.5373,0.5881,0.0006,-0.0239,0.0241,7299
+Observed (pi0),"R2b: trim e outside [0.05, 0.95]",0.5782,0.5812,0.5711,0.5919,0.0012,-0.0116,0.0141,6995
+Case 1: MJCA,"R2b: trim e outside [0.05, 0.95]",0.5826,0.58,0.563,0.5973,0.0,0.0,0.0,6995
+Case 2: DM,"R2b: trim e outside [0.05, 0.95]",0.208,0.5576,0.5359,0.5778,-0.0224,-0.0442,0.0,6995
+Case 2: DM (capacity),"R2b: trim e outside [0.05, 0.95]",0.5706,0.5717,0.5526,0.5901,-0.0083,-0.0289,0.0117,6995
+Case 2b: DR-learner,"R2b: trim e outside [0.05, 0.95]",0.3773,0.5574,0.5373,0.5782,-0.0226,-0.0436,-0.0014,6995
+Case 2b: DR-learner (capacity),"R2b: trim e outside [0.05, 0.95]",0.576,0.5629,0.5433,0.5814,-0.0172,-0.0361,0.0025,6995
+Case 3: DR-OPL,"R2b: trim e outside [0.05, 0.95]",0.3074,0.577,0.5575,0.5967,-0.003,-0.0244,0.0169,6995
+Observed (pi0),R3: treatment = Condition_MH_SA,0.662,0.5701,0.5586,0.5806,0.0072,-0.0068,0.0214,7299
+Case 1: MJCA,R3: treatment = Condition_MH_SA,0.6641,0.5629,0.5451,0.5804,0.0,0.0,0.0,7299
+Case 2: DM,R3: treatment = Condition_MH_SA,0.147,0.5189,0.4924,0.5459,-0.044,-0.0704,-0.0188,7299
+Case 2: DM (capacity),R3: treatment = Condition_MH_SA,0.6469,0.5663,0.5446,0.5874,0.0034,-0.0176,0.025,7299
+Case 2b: DR-learner,R3: treatment = Condition_MH_SA,0.2951,0.5204,0.4963,0.5434,-0.0424,-0.0653,-0.0201,7299
+Case 2b: DR-learner (capacity),R3: treatment = Condition_MH_SA,0.6471,0.5604,0.5385,0.5828,-0.0025,-0.0238,0.0175,7299
+Case 3: DR-OPL,R3: treatment = Condition_MH_SA,0.1114,0.5117,0.4855,0.5395,-0.0512,-0.078,-0.0262,7299
+Observed (pi0),R4: High vs Standard only,0.4082,0.5603,0.5471,0.5729,0.01,-0.005,0.0261,5118
+Case 1: MJCA,R4: High vs Standard only,0.4123,0.5503,0.5301,0.5707,0.0,0.0,0.0,5118
+Case 2: DM,R4: High vs Standard only,0.1778,0.5357,0.5144,0.5564,-0.0145,-0.0364,0.0055,5118
+Case 2: DM (capacity),R4: High vs Standard only,0.416,0.5437,0.5212,0.5659,-0.0065,-0.03,0.0149,5118
+Case 2b: DR-learner,R4: High vs Standard only,0.365,0.5387,0.5132,0.5624,-0.0115,-0.036,0.0124,5118
+Case 2b: DR-learner (capacity),R4: High vs Standard only,0.4019,0.5409,0.5157,0.5649,-0.0094,-0.0345,0.0152,5118
+Case 3: DR-OPL,R4: High vs Standard only,0.2354,0.5415,0.5194,0.5622,-0.0087,-0.0314,0.0116,5118
+Observed (pi0),R5a: race included in policy input,0.5864,0.5695,0.5576,0.5805,-0.0001,-0.0143,0.013,7299
+Case 1: MJCA,R5a: race included in policy input,0.5936,0.5697,0.5513,0.5886,0.0,0.0,0.0,7299
+Case 2: DM,R5a: race included in policy input,0.2152,0.5629,0.5422,0.5824,-0.0068,-0.0292,0.0125,7299
+Case 2: DM (capacity),R5a: race included in policy input,0.5782,0.573,0.5533,0.5922,0.0034,-0.0157,0.0229,7299
+Case 2b: DR-learner,R5a: race included in policy input,0.3639,0.557,0.5366,0.5774,-0.0126,-0.0332,0.0064,7299
+Case 2b: DR-learner (capacity),R5a: race included in policy input,0.5857,0.5622,0.5418,0.5824,-0.0074,-0.0279,0.0118,7299
+Case 3: DR-OPL,R5a: race included in policy input,0.2585,0.557,0.5368,0.576,-0.0127,-0.0336,0.0077,7299
+Observed (pi0),R5b: race and gender excluded from policy input,0.5866,0.57,0.5581,0.5808,-0.0004,-0.0154,0.0127,7299
+Case 1: MJCA,R5b: race and gender excluded from policy input,0.592,0.5703,0.5504,0.5906,0.0,0.0,0.0,7299
+Case 2: DM,R5b: race and gender excluded from policy input,0.2258,0.5499,0.529,0.5691,-0.0204,-0.0415,-0.0002,7299
+Case 2: DM (capacity),R5b: race and gender excluded from policy input,0.5915,0.5662,0.5457,0.5853,-0.0041,-0.0242,0.0148,7299
+Case 2b: DR-learner,R5b: race and gender excluded from policy input,0.3721,0.558,0.5361,0.5782,-0.0124,-0.033,0.008,7299
+Case 2b: DR-learner (capacity),R5b: race and gender excluded from policy input,0.5813,0.5683,0.5489,0.5888,-0.002,-0.022,0.0166,7299
+Case 3: DR-OPL,R5b: race and gender excluded from policy input,0.278,0.5574,0.5367,0.5769,-0.0129,-0.0338,0.0077,7299
+Observed (pi0),R6: logistic-regression propensity,0.5874,0.5697,0.558,0.5804,0.0038,-0.0089,0.0162,7299
+Case 1: MJCA,R6: logistic-regression propensity,0.5927,0.5659,0.5492,0.584,0.0,0.0,0.0,7299
+Case 2: DM,R6: logistic-regression propensity,0.1958,0.5422,0.5213,0.5613,-0.0237,-0.046,-0.0042,7299
+Case 2: DM (capacity),R6: logistic-regression propensity,0.5758,0.5641,0.545,0.5823,-0.0018,-0.0203,0.0161,7299
+Case 2b: DR-learner,R6: logistic-regression propensity,0.3764,0.5451,0.5236,0.5635,-0.0208,-0.0414,-0.001,7299
+Case 2b: DR-learner (capacity),R6: logistic-regression propensity,0.5875,0.5635,0.5429,0.5836,-0.0024,-0.0224,0.0158,7299
+Case 3: DR-OPL,R6: logistic-regression propensity,0.2822,0.5533,0.5334,0.5716,-0.0126,-0.0321,0.0067,7299
+Observed (pi0),R7: risk score included in policy input (previous main spec),0.5877,0.5694,0.5576,0.5803,-0.0064,-0.0244,0.0134,7299
+Case 1: MJCA,R7: risk score included in policy input (previous main spec),0.5928,0.5758,0.5521,0.5981,0.0,0.0,0.0,7299
+Case 2: DM,R7: risk score included in policy input (previous main spec),0.2855,0.5559,0.5282,0.5829,-0.0199,-0.0453,0.0062,7299
+Case 2: DM (capacity),R7: risk score included in policy input (previous main spec),0.5773,0.5801,0.555,0.6056,0.0043,-0.0198,0.0279,7299
+Case 2b: DR-learner,R7: risk score included in policy input (previous main spec),0.3846,0.5784,0.553,0.6021,0.0026,-0.0236,0.0256,7299
+Case 2b: DR-learner (capacity),R7: risk score included in policy input (previous main spec),0.5801,0.5801,0.5556,0.6028,0.0043,-0.0222,0.0277,7299
+Case 3: DR-OPL,R7: risk score included in policy input (previous main spec),0.3176,0.5629,0.5356,0.5876,-0.0129,-0.0383,0.0117,7299

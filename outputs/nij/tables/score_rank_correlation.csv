@@ -1,0 +1,5 @@
+,MJCA risk q(x),DM benefit,DR-learner benefit,DR-OPL pi(1|x)
+MJCA risk q(x),1.0,-0.024,0.025,0.045
+DM benefit,-0.024,1.0,0.296,0.381
+DR-learner benefit,0.025,0.296,1.0,0.358
+DR-OPL pi(1|x),0.045,0.381,0.358,1.0

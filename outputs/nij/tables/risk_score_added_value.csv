@@ -1,0 +1,4 @@
+,0
+"AUC of q(x,a), 56 variables",0.7336
+"AUC of q(x,a), 56 variables + risk score",0.7345
+"AUC of pi0_hat, 56 variables",0.768

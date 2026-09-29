@@ -1,0 +1,5 @@
+,stage 1,stage 2
+True benefit,0.298,0.485
+DR-OPL pi(1|x),0.223,0.386
+DM benefit,0.321,0.544
+MJCA risk q(x),0.222,0.365

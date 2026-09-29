@@ -1,0 +1,8 @@
+,0
+AUC of pi0_hat (cross-fitted),0.768
+share e<0.05 or e>0.95,0.04
+share e<0.01 or e>0.99,0.011
+min e (A=1),0.039
+max e (A=0),0.994
+ESS / n (treated),0.706
+ESS / n (control),0.266
